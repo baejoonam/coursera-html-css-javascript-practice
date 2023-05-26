@@ -1,1 +1,1 @@
-# coursera-html-css-javascript-study
+# coursera-html-css-javascript-practice
